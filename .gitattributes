@@ -1,0 +1,13 @@
+# Normalize line endings
+*.css linguist-detectable
+*.min.css linguist-generated
+
+docs/* linguist-vendored
+
+* text=auto
+*.woff binary
+*.ico binary
+docs/index.html linguist-vendored
+dist/* linguist-vendored
+
+# eof cf485e26
